@@ -167,7 +167,7 @@ div.line {
 }
 
 .background-1 {
-    background-image: url(/Website/Image/banner1.jpg);
+    background-image: url(Image/banner1.jpg);
     background-size: cover;
     width: 100%;
     height: 90vh;
@@ -186,7 +186,7 @@ div.line {
 }
 
 .background-2 {
-    background-image: url(/Website/Image/banner-2.jpg);
+    background-image: url(Image/banner-2.jpg);
     background-size: cover;
     width: 100%;
     height: 100vh;
@@ -299,7 +299,7 @@ div.line {
 
 
 .second_block {
-    background: rgba(0, 0, 0, 0.7) url(/Website/Image/cake.jpg);
+    background: rgba(0, 0, 0, 0.7) url(Image/cake.jpg);
     background-size: cover;
     height: 76vh;
     width: 450px;
@@ -356,7 +356,7 @@ div.line {
 }
 
 .third_block {
-    background: rgba(0, 0, 0, 0.7) url(/Website/Image/milk.jpeg);
+    background: rgba(0, 0, 0, 0.7) url(Image/milk.jpeg);
     background-size: cover;
     height: 76vh;
     width: 450px;
@@ -444,7 +444,7 @@ div.line {
 
 
 .product_nav .poster {
-    background-image: url(/Website/Image/product-banner.jpg);
+    background-image: url(Image/product-banner.jpg);
     background-size: cover;
     width: 85%;
     height: 460px;
@@ -595,7 +595,7 @@ div.line {
 .fifth_section {
     height: 90vh;
     margin: 60px 0;
-    background-image: url(/Website/Image/bg-deal.jpg);
+    background-image: url(Image/bg-deal.jpg);
     background-size: cover;
 }
 
@@ -721,7 +721,7 @@ div.line {
 
 
 .sixth_right {
-    background-image: url(/Website/Image/products-rightview.jpg);
+    background-image: url(Image/products-rightview.jpg);
     background-size: cover;
     width: 50%;
     height: 370px;
