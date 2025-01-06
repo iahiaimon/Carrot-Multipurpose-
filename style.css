@@ -2,7 +2,6 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    /* background: yellowgreen; */
 }
 
 html {
@@ -114,6 +113,10 @@ div.line {
 .list_item a {
     text-decoration: none;
     color: black;
+}
+
+.list_item a:hover{
+    color: rgb(100, 180, 150);
 }
 
 .list_item {
